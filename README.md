@@ -1,5 +1,6 @@
-
 # Laravel Portugal 🇵🇹
+
+[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F62b030aa-d6ae-4182-b907-afe157d60b39%3Fdate%3D1&style=for-the-badge)](https://forge.laravel.com/servers/718559/sites/2320971)
 
 ## Credits
 This project is a merge of a previous [Laravel Portugal Api](https://github.com/laravel-portugal/api)
