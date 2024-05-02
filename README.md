@@ -1,3 +1,4 @@
+
 # Laravel Portugal 🇵🇹
 
 ## Credits
@@ -15,6 +16,7 @@ merged into the current repo. Many thanks to all contributors!
 - [Pedro Vasconcelos](https://github.com/pedro-vasconcelos)
 - [Tiago Fernandes](https://github.com/tiagof)
 - [Framein - Video Editing](https://framein.pt)
+- [Filipe Clemente](https://filipeclemente.pt)
 
 ## Support
 
