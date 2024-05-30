@@ -5,6 +5,7 @@
  * You can see the styles here:
  * https://unpkg.com/tailwindcss/dist/base.css
  */
+@import '../../node_modules/swiper/swiper.scss';
 @tailwind base;
 
 /**
@@ -53,3 +54,18 @@ input:invalid, textarea:invalid, select:invalid {
 [x-cloak] {
     display: none;
 }
+
+.swiper-wrapper {
+    width: 100%;
+    height: max-content !important;
+    padding-bottom: 64px !important;
+    -webkit-transition-timing-function: linear !important;
+    transition-timing-function: linear !important;
+    position: relative;
+    display: flex;
+}
+.swiper-pagination-bullet {
+    background: #4f46e5;
+}
+
+

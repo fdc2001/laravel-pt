@@ -64,7 +64,9 @@
                     </a>
                 </div>
                 <p class="mt-8 text-center text-base text-gray-400">
-                    language
+                        <a href="{{ language()->back('pt') }}">Português</a>
+                        <strong>|</strong>
+                        <a href="{{ language()->back('en') }}">English</a>
                 </p>
             </div>
         </footer>
